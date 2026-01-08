@@ -1,3 +1,18 @@
+## Table of Contents
+
+- [Tools & Technologies](#tools--technologies)
+- [Datasets Used](#datasets-used)
+- [Business Questions Addressed](#business-questions-addressed)
+- [Key Outcomes](#key-outcomes)
+- [Dashboards](#https://github.com/karthic180/analytics-and-reporting/tree/main#-dashboards)
+  - [Executive Sales Performance Dashboard](https://github.com/karthic180/analytics-and-reporting/edit/main/README.md#-executive-sales-performance-dashboard)
+  - [Customer Profitability & Segmentation Dashboard](https://github.com/karthic180/analytics-and-reporting/edit/main/README.md#-customer-profitability--segmentation-dashboard)
+- [DAX Measures & Semantic Layer](#dax-measures--semantic-layer)
+  - [Core Measures](#core-measures)
+  - [Profitability & Margin Measures](#profitability--margin-measures)
+  - [Time Intelligence Measures](#time-intelligence-measures)
+  - [Operational & Segmentation Measures](#operational--segmentation-measures)
+
 ##  Tools & Technologies
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
