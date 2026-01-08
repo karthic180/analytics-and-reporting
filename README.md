@@ -16,3 +16,7 @@
 - Built interactive dashboards to support management decisions
 - Implemented clear data models to ensure reporting accuracy
 - Documented assumptions and refresh logic for transparency
+
+## Dasboards
+## Executive Sales  
+[Screenshots](https://github.com/karthic180/analytics-and-reporting/blob/main/Executive%20Sales%20Performance%20Dashboard.pdf)
